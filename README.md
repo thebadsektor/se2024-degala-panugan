@@ -128,7 +128,20 @@ Weeks 13-14: Documentation
 
 Outline the project timeline, including milestones or deliverables. Example:
 
-- **Week 1-2**: Research and project planning.
+- **Week 1-2**: Feature Development
+  - mm/dd/year
+  - Meeting Recording: url
+  - Proposes Features
+    1.
+    2.
+    3.
+    4.
+    5.
+    6.
+    7.
+    8.
+    9.
+    10.   
 - **Week 3-5**: Design and setup.
 - **Week 6-10**: Implementation.
 - **Week 11-12**: Testing and debugging.
