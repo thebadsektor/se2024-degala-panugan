@@ -128,7 +128,7 @@ Weeks 13-14: Documentation
 
 Outline the project timeline, including milestones or deliverables. Example:
 
-- **Week 1-2**: Feature Development
+- **Week 1-2**: Collaborative Brainstorming for Feature Development
   - mm/dd/year
   - Meeting Recording: url
   - Proposes Features
